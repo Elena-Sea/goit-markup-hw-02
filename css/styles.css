@@ -67,9 +67,10 @@ body {
 	color: var(--secondary-text-color);
 }
 
-.site-nav {
+.site-nav-item {
 	font-weight: 500;
-	line-height: 1.1;
+	line-height: 1.14;
+	color: var(--secondary-text-color);
 	letter-spacing: 0.02em;
 }
 
@@ -154,9 +155,13 @@ body {
 /* main portfolio*/
 
 .button {
+	font-family: Roboto, sans-serif;
+	font-style: normal;
 	font-weight: 500;
 	font-size: 16px;
-	line-height: 1.19;
+	line-height: 1.63;
+	letter-spacing: 0.03em;
+	color: var(--secondary-text-color);
 }
 
 .products-item-name {
