@@ -74,6 +74,10 @@ body {
 	letter-spacing: 0.02em;
 }
 
+.site-nav-item.current {
+	color: var(--conditions-color);
+}
+
 .contacts {
 	font-weight: 500;
 	line-height: 1.1;
